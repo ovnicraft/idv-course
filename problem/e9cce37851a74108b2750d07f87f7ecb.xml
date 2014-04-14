@@ -1,0 +1,17 @@
+<problem display_name="Multiple Choice" markdown="&#10;2.- Algunas características citadas para el aprendizaje colaborativo tomadas del curso de tutor virtual de la UNAD, son&#10;     ( ) Autonomía en la programación de tiempo de trabajo &#10;     ( ) Trabajo individual &#10;     (x) Habilidades sociales e interdependencia positiva (nosotros, en lugar de yo)&#10;     ( ) Procesamiento  individual de la información&#10;     &#10;[explanation]&#10;Mediante el uso de herramientas colaborativas como foros , wikis entre otros &#10;[explanation]&#10;">
+  <p>2.- Algunas características citadas para el aprendizaje colaborativo tomadas del curso de tutor virtual de la UNAD, son</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Autonomía en la programación de tiempo de trabajo </choice>
+      <choice correct="false">Trabajo individual </choice>
+      <choice correct="true">Habilidades sociales e interdependencia positiva (nosotros, en lugar de yo)</choice>
+      <choice correct="false">Procesamiento  individual de la información</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Mediante el uso de herramientas colaborativas como foros , wikis entre otros </p>
+    </div>
+  </solution>
+</problem>

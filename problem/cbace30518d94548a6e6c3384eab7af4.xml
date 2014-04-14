@@ -1,0 +1,12 @@
+<problem display_name="Marque el cuadro correcto" markdown="Dado el siguiente enunciado, seleccione dos de las opciones que son las correctas:&#10;&#10;Algunas revistas científicas internacionales con altos índices de impacto e indexadas en prestigiosas bases de datos están utilizando nuevos formatos audiovisuales, tales como:&#10;&#10;&#10;&#10;[x] Video artículos&#10;[ ] Foro de discusión&#10;&#10;[x] Chat científicos &#10;[ ] Artículo escrito &#10;" max_attempts="3" weight="8.3">
+  <p>Dado el siguiente enunciado, seleccione dos de las opciones que son las correctas:</p>
+  <p>Algunas revistas científicas internacionales con altos índices de impacto e indexadas en prestigiosas bases de datos están utilizando nuevos formatos audiovisuales, tales como:</p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="true">Video artículos</choice>
+      <choice correct="false">Foro de discusión</choice>
+      <choice correct="true">Chat científicos </choice>
+      <choice correct="false">Artículo escrito </choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>

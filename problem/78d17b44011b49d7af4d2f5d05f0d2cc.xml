@@ -1,0 +1,15 @@
+<problem display_name="Text Input" markdown="1.&#9;Los modelos que justifican la teoría _________________,  subrayan el papel esencialmente activo de quien aprende, por lo que las acciones formativas deben estar centradas en el proceso de aprendizaje, en la creatividad del estudiante y no en los contenidos específicos&#10;&#10;&#10;= Constructivista&#10;or= constructivista&#10;or= CONSTRUCTIVISTA&#10;&#10;&#10;[explanation]&#10;Lansing is the capital of Michigan, although it is not Michgan's largest city, &#10;or even the seat of the county in which it resides.&#10;[explanation]&#10;">
+  <p>1.	Los modelos que justifican la teoría _________________,  subrayan el papel esencialmente activo de quien aprende, por lo que las acciones formativas deben estar centradas en el proceso de aprendizaje, en la creatividad del estudiante y no en los contenidos específicos</p>
+  <stringresponse answer="Constructivista" type="ci">
+    <additional_answer>constructivista</additional_answer>
+    <additional_answer>CONSTRUCTIVISTA</additional_answer>
+    <textline size="20"/>
+  </stringresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Lansing is the capital of Michigan, although it is not Michgan's largest city, </p>
+      <p>or even the seat of the county in which it resides.</p>
+    </div>
+  </solution>
+</problem>

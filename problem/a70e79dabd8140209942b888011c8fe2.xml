@@ -1,0 +1,19 @@
+<problem display_name="Ejercicios de Aprendizaje" markdown="Escriba las palabras que correspondan teniendo en cuenta el significado de los MOOCs:&#10;&#10;1.- El carácter ______________ esta dado porque aunque no se ofrezca gratis, tanto las actividades, como los contenidos y los recursos utilizados generalmente son de uso libre y accesible para cualquier usuario.&#10;&#10;&#10;[[(Abierto), Masivo, Curso, En línea]]&#10;&#10;&#10;2. Se considera en _______________ porque no requiere la asistencia al aula y es internet el medio de comunicación.&#10;&#10;&#10;[[(En línea), Masivo, Abierto,Curso ]]&#10;&#10;3. Cuenta con una estructura orientada al aprendizaje, con evaluaciones para acreditar el conocimiento adquirido, por lo que se denomina ______________________.&#10;&#10;[[(Curso), Masivo, Abierto, En línea]]&#10;&#10;&#10;4. Se considera ______________ debido a que el número de participante es en principio ilimitado, o una cantidad muy superior a lo que podría considerarse en otro tipo de curso y su alcance es global.&#10;&#10;[[(Masivo), Abierto, Curso, En línea]]" max_attempts="3" weight="8.3">
+  <p>Escriba las palabras que correspondan teniendo en cuenta el significado de los MOOCs:</p>
+  <p>1.- El carácter ______________ esta dado porque aunque no se ofrezca gratis, tanto las actividades, como los contenidos y los recursos utilizados generalmente son de uso libre y accesible para cualquier usuario.</p>
+  <optionresponse>
+    <optioninput options="('Abierto','Masivo','Curso','En línea')" correct="Abierto"/>
+  </optionresponse>
+  <p>2. Se considera en _______________ porque no requiere la asistencia al aula y es internet el medio de comunicación.</p>
+  <optionresponse>
+    <optioninput options="('En línea','Masivo','Abierto','Curso ')" correct="En línea"/>
+  </optionresponse>
+  <p>3. Cuenta con una estructura orientada al aprendizaje, con evaluaciones para acreditar el conocimiento adquirido, por lo que se denomina ______________________.</p>
+  <optionresponse>
+    <optioninput options="('Curso','Masivo','Abierto','En línea')" correct="Curso"/>
+  </optionresponse>
+  <p>4. Se considera ______________ debido a que el número de participante es en principio ilimitado, o una cantidad muy superior a lo que podría considerarse en otro tipo de curso y su alcance es global.</p>
+  <optionresponse>
+    <optioninput options="('Masivo','Abierto','Curso','En línea')" correct="Masivo"/>
+  </optionresponse>
+</problem>

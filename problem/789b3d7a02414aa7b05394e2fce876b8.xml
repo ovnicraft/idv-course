@@ -1,0 +1,19 @@
+<problem display_name="Ejercicios de aprendizaje" markdown="Las teorías constructivista social y conectivista sustentan los cursos abiertos, masivos y en línea. Lea los siguientes enunciados y señale cual corresponde a cada uno de estas teorías.&#10;&#10;-El aprendizaje y el desarrollo son una actividad social y colaborativa que no puede ser &quot;enseñada&quot; a nadie. Depende del estudiante construir su propia comprensión en su propia mente. &#10;[[(Constructivismo social), Conectivismo]]&#10;&#10;-Responde o trata de explicar el efecto de la tecnología sobre la forma actual de comunicarnos, aprender y vivir.&#10;&#10;[[(Conectivismo), Constructivismo social]]&#10;&#10;-El aprendizaje es el proceso de conectar nodos o fuentes de información.&#10;&#10;[[(Conectivismo),Constructivismo social ]]&#10;&#10;-El aprendizaje virtual es un proceso de construcción, que supone que lo que el aprendiz aprende en un entorno virtual no es simplemente una copia o una reproducción de lo que se le presenta como contenido.&#10;&#10;[[(Constructivismo social), Conectivismo ]]&#10;&#10;" max_attempts="3" weight="8.3">
+  <p>Las teorías constructivista social y conectivista sustentan los cursos abiertos, masivos y en línea. Lea los siguientes enunciados y señale cual corresponde a cada uno de estas teorías.</p>
+  <p>-El aprendizaje y el desarrollo son una actividad social y colaborativa que no puede ser "enseñada" a nadie. Depende del estudiante construir su propia comprensión en su propia mente. </p>
+  <optionresponse>
+    <optioninput options="('Constructivismo social','Conectivismo')" correct="Constructivismo social"/>
+  </optionresponse>
+  <p>-Responde o trata de explicar el efecto de la tecnología sobre la forma actual de comunicarnos, aprender y vivir.</p>
+  <optionresponse>
+    <optioninput options="('Conectivismo','Constructivismo social')" correct="Conectivismo"/>
+  </optionresponse>
+  <p>-El aprendizaje es el proceso de conectar nodos o fuentes de información.</p>
+  <optionresponse>
+    <optioninput options="('Conectivismo','Constructivismo social ')" correct="Conectivismo"/>
+  </optionresponse>
+  <p>-El aprendizaje virtual es un proceso de construcción, que supone que lo que el aprendiz aprende en un entorno virtual no es simplemente una copia o una reproducción de lo que se le presenta como contenido.</p>
+  <optionresponse>
+    <optioninput options="('Constructivismo social','Conectivismo ')" correct="Constructivismo social"/>
+  </optionresponse>
+</problem>

@@ -1,0 +1,15 @@
+<problem display_name="Text Input" markdown="2.&#9;Los modelos de Diseño Instruccional fundamentados en el ____________, se enfocan en los conocimientos y destrezas académicas y en objetivos de aprendizaje observables y medibles.&#10;&#10;&#10;= Conductista&#10;or= conductista&#10;or= CONDUCTISTA&#10;&#10;&#10;[explanation]&#10;Lansing is the capital of Michigan, although it is not Michgan's largest city, &#10;or even the seat of the county in which it resides.&#10;[explanation]&#10;">
+  <p>2.	Los modelos de Diseño Instruccional fundamentados en el ____________, se enfocan en los conocimientos y destrezas académicas y en objetivos de aprendizaje observables y medibles.</p>
+  <stringresponse answer="Conductista" type="ci">
+    <additional_answer>conductista</additional_answer>
+    <additional_answer>CONDUCTISTA</additional_answer>
+    <textline size="20"/>
+  </stringresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Lansing is the capital of Michigan, although it is not Michgan's largest city, </p>
+      <p>or even the seat of the county in which it resides.</p>
+    </div>
+  </solution>
+</problem>

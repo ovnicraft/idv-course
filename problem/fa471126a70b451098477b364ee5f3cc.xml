@@ -1,0 +1,15 @@
+<problem display_name="Text Input" markdown="3.&#9;Los modelos instruccionales basados en la teoría _____________, se enmarcan en la comprensión de los procesos de aprendizaje, centrándose en el pensamiento, la solución de problemas, el lenguaje, la formación de conceptos y el procesamiento de la información.&#10;&#10;&#10;= Cognitiva&#10;or= cognitiva&#10;or= COGNITIVA&#10;&#10;&#10;[explanation]&#10;Lansing is the capital of Michigan, although it is not Michgan's largest city, &#10;or even the seat of the county in which it resides.&#10;[explanation]&#10;">
+  <p>3.	Los modelos instruccionales basados en la teoría _____________, se enmarcan en la comprensión de los procesos de aprendizaje, centrándose en el pensamiento, la solución de problemas, el lenguaje, la formación de conceptos y el procesamiento de la información.</p>
+  <stringresponse answer="Cognitiva" type="ci">
+    <additional_answer>cognitiva</additional_answer>
+    <additional_answer>COGNITIVA</additional_answer>
+    <textline size="20"/>
+  </stringresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Lansing is the capital of Michigan, although it is not Michgan's largest city, </p>
+      <p>or even the seat of the county in which it resides.</p>
+    </div>
+  </solution>
+</problem>

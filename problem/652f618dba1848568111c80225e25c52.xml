@@ -1,0 +1,44 @@
+<problem display_name="Ejercicios de aprendizaje" markdown="2.- Seleccione la respuesta correcta que corresponde a cada tipo de actividad colaborativa.&#10;A.- Permite comunicaciones simultaneas y en tiempo real&#10;&#10;&#10;     ( ) wiki&#10;     ( ) foros&#10;     () chat&#10;     &#10;     &#10; B.- Herramientas asincrónicas que imponen orden en las contribuciones &#10;     ( ) blog&#10;     ( ) chat&#10;     ()foros&#10;     &#10; C.- Permite generar páginas en colaboración con otros &#10;     &#10;     ( ) chat&#10;     ( ) foros&#10;     ()wiki&#10; &#10; D.- Espacio personal en la Web, se puede publicar en la propia página     &#10;     &#10;     ( ) foros&#10;     ( ) wiki&#10;     ( )blog&#10;     &#10;     &#10;     &#10;&#10;&#10;">
+  <p>2.- Seleccione la respuesta correcta que corresponde a cada tipo de actividad colaborativa.</p>
+  <p>A.- Permite comunicaciones simultaneas y en tiempo real</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">wiki</choice>
+      <choice correct="false">foros</choice>
+      <choice correct="false">chat</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>     </p>
+  <p>     </p>
+  <p> B.- Herramientas asincrónicas que imponen orden en las contribuciones </p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">blog</choice>
+      <choice correct="false">chat</choice>
+      <choice correct="false">foros</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>     </p>
+  <p> C.- Permite generar páginas en colaboración con otros </p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">undefined</choice>
+      <choice correct="false">chat</choice>
+      <choice correct="false">foros</choice>
+      <choice correct="false">wiki</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p> </p>
+  <p> D.- Espacio personal en la Web, se puede publicar en la propia página     </p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">undefined</choice>
+      <choice correct="false">foros</choice>
+      <choice correct="false">wiki</choice>
+      <choice correct="false">blog</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>     </p>
+  <p>     </p>
+  <p>     </p>
+</problem>

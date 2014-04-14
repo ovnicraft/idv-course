@@ -1,0 +1,26 @@
+<problem display_name="Ejercicio de aprendizaje" markdown="Escoja una opción de las siguientes aplicaciones : Evernote, Pinterest, Scoop.it, Koowall, Padlet y escríba junto a cada afirmación en el recuadro, la que corresponde.&#10;&#10;1.-Es una aplicación informática destinada a la organización de información personal mediante el archivo de notas. Existen versiones para diversos sistemas operativos que se instalan en versión web.&#10;&#10;[[(Evernote), Pinterest, Scoop.it, Koowall, Padlet]]&#10;&#10;&#10;2.- Es una red social para compartir imágenes que permite a los usuarios crear y administrar en tableros personales temáticos, colecciones de imágenes como eventos, intereses, hobbies y mucho mas.&#10;&#10;[[(Pinterest),Evernote,Scoop.it, Koowall, Padlet]]&#10;&#10;&#10;3.- Es una herramienta online práctica para realizar y compartir la vigilancia reactiva de informaciones de las palabras claves a su elección.&#10;&#10;[[(Scoop.it),Evernote,Scoop.it, Pinterest, Koowall, Padlet]]&#10;&#10;&#10;4.- Es una herramienta para elaborar muros virtuales que, además de resultar muy atractivos visualmente, son también muy adecuados para el trabajo en equipo ya que ofrece la posibilidad de invitar a contactos que colaboren en la elaboración del muro.&#10;&#10;&#10;[[( Koowall), Scoop.it, Evernote,Pinterest,Padlet]]&#10;&#10;5.- Es una excelente opción para guardar y compartir diferente contenido multimedia sin complicarnos con demasiadas opciones. Podemos utilizarlo como un archivo personal o como una pizarra colaborativa.&#10;&#10;= Padlet &#10;&#10;[[(Padlet ), Koowall, Scoop.it, Evernote,Pinterest]]&#10;&#10;&#10;">
+  <p>Escoja una opción de las siguientes aplicaciones : Evernote, Pinterest, Scoop.it, Koowall, Padlet y escríba junto a cada afirmación en el recuadro, la que corresponde.</p>
+  <p>1.-Es una aplicación informática destinada a la organización de información personal mediante el archivo de notas. Existen versiones para diversos sistemas operativos que se instalan en versión web.</p>
+  <optionresponse>
+    <optioninput options="('Evernote','Pinterest','Scoop.it','Koowall','Padlet')" correct="Evernote"/>
+  </optionresponse>
+  <p>2.- Es una red social para compartir imágenes que permite a los usuarios crear y administrar en tableros personales temáticos, colecciones de imágenes como eventos, intereses, hobbies y mucho mas.</p>
+  <optionresponse>
+    <optioninput options="('Pinterest','Evernote','Scoop.it','Koowall','Padlet')" correct="Pinterest"/>
+  </optionresponse>
+  <p>3.- Es una herramienta online práctica para realizar y compartir la vigilancia reactiva de informaciones de las palabras claves a su elección.</p>
+  <optionresponse>
+    <optioninput options="('Scoop.it','Evernote','Scoop.it','Pinterest','Koowall','Padlet')" correct="Scoop.it"/>
+  </optionresponse>
+  <p>4.- Es una herramienta para elaborar muros virtuales que, además de resultar muy atractivos visualmente, son también muy adecuados para el trabajo en equipo ya que ofrece la posibilidad de invitar a contactos que colaboren en la elaboración del muro.</p>
+  <optionresponse>
+    <optioninput options="(' Koowall','Scoop.it','Evernote','Pinterest','Padlet')" correct=" Koowall"/>
+  </optionresponse>
+  <p>5.- Es una excelente opción para guardar y compartir diferente contenido multimedia sin complicarnos con demasiadas opciones. Podemos utilizarlo como un archivo personal o como una pizarra colaborativa.</p>
+  <stringresponse answer="Padlet " type="ci">
+    <textline size="20"/>
+  </stringresponse>
+  <optionresponse>
+    <optioninput options="('Padlet ','Koowall','Scoop.it','Evernote','Pinterest')" correct="Padlet "/>
+  </optionresponse>
+</problem>

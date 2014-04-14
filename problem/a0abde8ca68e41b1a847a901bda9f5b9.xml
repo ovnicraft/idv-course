@@ -1,0 +1,11 @@
+<problem display_name="Marca el cuadro correcto" markdown="EJERCICIOS DE APRENDIZAJE.&#10;Analice los siguientes planteamientos e indique los que considere  verdaderos o falsos:&#10;&#10;La herramienta Zotero:&#10;&#10;&#10;&#10;[x] Es  gratuita y fácil de usar para ayudar a recopilar, organizar, citar y compartir las fuentes de investigación&#10;[ ] No  sincroniza automáticamente los datos en los diferentes dispositivos que usted elije (computador portátil, etc)" max_attempts="3" weight="0.7">
+  <p>EJERCICIOS DE APRENDIZAJE.</p>
+  <p>Analice los siguientes planteamientos e indique los que considere  verdaderos o falsos:</p>
+  <p>La herramienta Zotero:</p>
+  <choiceresponse>
+    <checkboxgroup direction="vertical">
+      <choice correct="true">Es  gratuita y fácil de usar para ayudar a recopilar, organizar, citar y compartir las fuentes de investigación</choice>
+      <choice correct="false">No  sincroniza automáticamente los datos en los diferentes dispositivos que usted elije (computador portátil, etc)</choice>
+    </checkboxgroup>
+  </choiceresponse>
+</problem>

@@ -1,0 +1,21 @@
+<problem display_name="Selección única" markdown="En el menú Herramientas de la plataforma edX, se encuentra la lista de verificación del curso que  permite:&#10;&#10;-&#9;Asistirte mediante las tareas de construcción del curso.&#10;-&#9;Añadir un video.&#10;-&#9;Registrarte para crear un curso.&#10;-&#9;Bloquear un archivo.&#10;-   Agregar páginas estáticas&#10;&#10;&#10;&#10;&gt;&gt;La lista de verificación del curso permite&lt;&lt;&#10;     ( ) Añadir un video.&#10;     ( ) Registrarte para crear un curso&#10;     (x) Asistirte mediante las tareas de construcción del curso&#10;     ( ) Bloquear un archivo.&#10;     ( ) Agregar páginas estáticas&#10;&#10;     &#10;[explicación]&#10;La lista de verificación del curso unicamente permite asistirte mediante las tareas de verificación del curso.&#10;" max_attempts="3" weight="8.3">
+  <p>En el menú Herramientas de la plataforma edX, se encuentra la lista de verificación del curso que  permite:</p>
+  <p>-	Asistirte mediante las tareas de construcción del curso.</p>
+  <p>-	Añadir un video.</p>
+  <p>-	Registrarte para crear un curso.</p>
+  <p>-	Bloquear un archivo.</p>
+  <p>-   Agregar páginas estáticas</p>
+  <p>La lista de verificación del curso permite</p>
+  <multiplechoiceresponse>
+    <choicegroup label="La lista de verificación del curso permite" type="MultipleChoice">
+      <choice correct="false">Añadir un video.</choice>
+      <choice correct="false">Registrarte para crear un curso</choice>
+      <choice correct="true">Asistirte mediante las tareas de construcción del curso</choice>
+      <choice correct="false">Bloquear un archivo.</choice>
+      <choice correct="false">Agregar páginas estáticas</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>     </p>
+  <p>[explicación]</p>
+  <p>La lista de verificación del curso unicamente permite asistirte mediante las tareas de verificación del curso.</p>
+</problem>

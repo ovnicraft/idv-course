@@ -1,0 +1,15 @@
+<problem display_name="Text Input" markdown="4.&#9;Los  modelos fundamentados en la teoría de ____________, se organizan en sistemas abiertos y a diferencia de los diseños de primera generación buscan mayor participación de los estudiantes.&#10;&#10;&#10;= Sistemas&#10;or= sistemas&#10;or= SISTEMAS&#10;&#10;&#10;[explanation]&#10;Lansing is the capital of Michigan, although it is not Michgan's largest city, &#10;or even the seat of the county in which it resides.&#10;[explanation]&#10;">
+  <p>4.	Los  modelos fundamentados en la teoría de ____________, se organizan en sistemas abiertos y a diferencia de los diseños de primera generación buscan mayor participación de los estudiantes.</p>
+  <stringresponse answer="Sistemas" type="ci">
+    <additional_answer>sistemas</additional_answer>
+    <additional_answer>SISTEMAS</additional_answer>
+    <textline size="20"/>
+  </stringresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Lansing is the capital of Michigan, although it is not Michgan's largest city, </p>
+      <p>or even the seat of the county in which it resides.</p>
+    </div>
+  </solution>
+</problem>
